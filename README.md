@@ -24,14 +24,8 @@
 
 ## Projects
 
-### Project 1: Web Application
-A web application built with React and Node.js that allows users to create and manage tasks.
-
-### Project 2: Machine Learning Model
-A machine learning model developed using Scikit-learn to predict housing prices based on various features.
-
-### Project 3: Mobile App
-A mobile app created with React Native to help users track their fitness activities.
+### Project 1: Personal portfolio
+I have created my own personal portfolio
 
 ## GitHub Stats
 
