@@ -17,10 +17,10 @@
 
 ## Skills
 
-- Programming Languages:** Python
-- Web Development:** HTML, CSS, JavaScript
-- Databases:** MySQL
-- Tools & Platforms:** Git, 
+- Programming Languages: Python
+- Web Development: HTML, CSS, JavaScript
+- Databases: MySQL
+- Tools & Platforms: Git, 
 
 ## Projects
 
