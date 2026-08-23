@@ -98,44 +98,11 @@ system status: ██████████ 100%
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,django,mysql,js,html,css,git,vscode,aws,docker&theme=dark"/>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/skill-tree.svg" width="90%"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-```ini
-[languages]
-Python      [17/20] ████████████████▓░░░ 85%
-HTML        [18/20] ██████████████████░░ 90%
-CSS         [16/20] ████████████████░░░░ 80%
-SQL         [15/20] ███████████████░░░░░ 75%
-JavaScript  [14/20] ██████████████░░░░░░ 70%
-```
-
-</td>
-<td width="50%">
-
-```ini
-[frameworks_and_tools]
-Django      [16/20] ████████████████░░░░ 80%
-Git         [17/20] █████████████████░░░ 85%
-MySQL       [15/20] ███████████████░░░░░ 75%
-AWS ~       [08/20] ████████░░░░░░░░░░░░ 40%
-Docker ~    [07/20] ███████░░░░░░░░░░░░░ 35%
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/skills-orbit.svg" width="70%"/>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/activity-radar.svg" width="55%"/>
 
 </div>
 
@@ -213,6 +180,10 @@ Docker ~    [07/20] ███████░░░░░░░░░░░░░
 ## ▸ `analytics --stats`
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/commit-pulse.svg" width="95%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=D4AF37&icon_color=00FF41&text_color=00FF41" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&theme=dark&bg_color=00000000&hide_border=true&title_color=D4AF37&text_color=00FF41" height="165"/>
