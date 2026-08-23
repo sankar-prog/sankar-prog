@@ -1,101 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a0b2e&height=250&section=header"/>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/matrix-banner.svg" width="100%"/>
 
 <br/>
 
-<pre>
-$ initializing_portfolio.sh
-[████████████████████████████████████████] 100%
-> Loading developer profile... done.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=root%40sankar%3A~%24+whoami;%3E+fresher+python+%2F+django+developer;root%40sankar%3A~%24+status;%3E+available+for+hire+%E2%9C%93;root%40sankar%3A~%24+cat+philosophy.txt;%3E+coffee+%2B+code+%2B+curiosity" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%E2%97%8F_ONLINE-000000?style=flat-square&color=00FF41&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=sankar-prog&label=VISITORS&color=00FF41&style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LOCATION-CHENNAI_%2F_DHARMAPURI-000000?style=flat-square&color=D4AF37&labelColor=000000"/>
+
+</div>
+
+<br/>
+
+<pre align="center">
+░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=B57BFF&background=00000000&center=true&vCenter=true&width=600&lines=SANKAR;Python+Developer;Fresher+%C2%B7+Django+%C2%B7+Web+Apps" />
-
-<sub>Hi, I'm Sankar 👋 &nbsp;·&nbsp; Fresher Django Developer &nbsp;·&nbsp; Turning coffee ☕ into code</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/●_Available_for_hire-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=B57BFF"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="120"><h2>3+</h2><sub>Projects</sub></td>
-<td align="center" width="120"><h2>0+</h2><sub>Years</sub></td>
-<td align="center" width="120"><h2>100%</h2><sub>Dedication</sub></td>
-</tr>
-</table>
-
-<a href="https://progsankar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=B57BFF&logo=vercel&logoColor=B57BFF"/></a>
-<a href="mailto:devo.sankar@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=B57BFF&logo=gmail&logoColor=B57BFF"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-<br/>
+## ▸ `whoami`
 
 <table width="100%">
 <tr>
+<td width="55%" valign="top">
+
+```diff
++ name        : Sankar
++ role        : Python / Django Developer
++ level       : Fresher · Entry Level
++ base        : Chennai, India (from Dharmapuri)
++ status      : Available for hire
+```
+
+I speak Python more fluently than my alarm clock at 6 a.m. Soft spot for Django, clean code, and databases that don't run away screaming *(thanks, MySQL)*.
+
+I take random ideas, feed them coffee, and turn them into working projects. Two lessons learned so far — `git is my friend (most days)` and `debugging at 2am counts as cardio`.
+
+Off the clock: volleyball 🏐 · chess ♟️ · travel ✈️ · movie marathons 🎬
+
+</td>
 <td width="45%" valign="top">
 
 ```
-sankar-portfolio.py
+> boot_sequence.log
+
+[OK] loading personality.dll
+[OK] mounting curiosity/
+[OK] django == installed
+[OK] coffee.exe running
+[WARN] sleep_schedule not found
+[OK] ready_for_opportunities = True
+
+system status: ██████████ 100%
 ```
-
-```python
-class About:
-    name = "Sankar"
-    role = "Python Developer"
-    level = "Fresher · Entry Level"
-    based_in = "Chennai (from Dharmapuri), India"
-
-    def bio(self):
-        return (
-            "Speaks Python more fluently than my "
-            "alarm clock at 6 a.m. Soft spot for "
-            "Django, clean code, and databases that "
-            "don't run away screaming."
-        )
-
-    def off_duty(self):
-        return ["volleyball 🏐", "chess ♟️",
-                "travel ✈️", "movies 🎬"]
-```
-
-</td>
-<td width="55%" valign="top">
-
-### About Me
-
-Hi, I'm Sankar — a fresher web developer who speaks Python more fluently than my alarm clock at 6 a.m. Soft spot for Django, clean code, and making sure my database doesn't run away screaming (thanks, MySQL).
-
-I take random ideas, give them coffee, and turn them into functional projects. Two lessons so far:
-`Git is my friend (most days)` and `debugging at 2am counts as cardio`.
-
-Still early in my career — eager to learn, absorb feedback (preferably with snacks), and write code today I can still understand tomorrow.
 
 </td>
 </tr>
 </table>
 
-<br/>
+<pre align="center">
+░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
+</pre>
 
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## ⚡ Skills
-
-</div>
+## ▸ `ls skills/`
 
 <div align="center">
 
@@ -109,127 +78,140 @@ Still early in my career — eager to learn, absorb feedback (preferably with sn
 <tr>
 <td width="50%">
 
-**Languages**
-```
-Python      █████████████████░░░  85%
-JavaScript  ██████████████░░░░░░  70%
-SQL         ███████████████░░░░░  75%
-HTML        ██████████████████░░  90%
-CSS         ████████████████░░░░  80%
+```ini
+[languages]
+Python      [17/20] ████████████████▓░░░ 85%
+HTML        [18/20] ██████████████████░░ 90%
+CSS         [16/20] ████████████████░░░░ 80%
+SQL         [15/20] ███████████████░░░░░ 75%
+JavaScript  [14/20] ██████████████░░░░░░ 70%
 ```
 
 </td>
 <td width="50%">
 
-**Frameworks · Tools · Learning**
-```
-Django      ████████████████░░░░  80%
-Git         █████████████████░░░  85%
-MySQL       ███████████████░░░░░  75%
-AWS         ████████░░░░░░░░░░░░  40%
-Docker      ███████░░░░░░░░░░░░░  35%
+```ini
+[frameworks_and_tools]
+Django      [16/20] ████████████████░░░░ 80%
+Git         [17/20] █████████████████░░░ 85%
+MySQL       [15/20] ███████████████░░░░░ 75%
+AWS ~       [08/20] ████████░░░░░░░░░░░░ 40%
+Docker ~    [07/20] ███████░░░░░░░░░░░░░ 35%
 ```
 
 </td>
 </tr>
 </table>
 
-<br/>
+<pre align="center">
+░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
+</pre>
 
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 🚀 Featured Projects
-
-</div>
+## ▸ `cat projects/*.json`
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🛒 E-Commerce Website**
-`HTML` `CSS` `JavaScript`
-<br/>
-[Code →](https://github.com/sankar-prog/E-Commerce) &nbsp;|&nbsp; [Demo →](https://e-commerce-cia1.vercel.app/)
+```json
+{
+  "name": "E-Commerce Website",
+  "stack": ["HTML", "CSS", "JS"],
+  "links": {
+    "code": "→ github.com/sankar-prog/E-Commerce",
+    "demo": "→ e-commerce-cia1.vercel.app"
+  }
+}
+```
+[Code](https://github.com/sankar-prog/E-Commerce) · [Demo](https://e-commerce-cia1.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-**🚌 Bus Ticket Booking**
-`Django` `MySQL` `HTML` `CSS`
-<br/>
-[Code →](https://github.com/sankar-prog/bus-booking)
+```json
+{
+  "name": "Bus Ticket Booking",
+  "stack": ["Django", "MySQL", "HTML/CSS"],
+  "links": {
+    "code": "→ github.com/sankar-prog/bus-booking"
+  }
+}
+```
+[Code](https://github.com/sankar-prog/bus-booking)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🩺 AI Skin Disease Detection**
-`API` `HTML` `CSS` `JavaScript`
-<br/>
-[Code →](https://github.com/sankar-prog/Prathap--project) &nbsp;|&nbsp; [Demo →](https://pro-skin.vercel.app/)
+```json
+{
+  "name": "AI Skin Disease Detection",
+  "stack": ["API", "HTML", "CSS", "JS"],
+  "links": {
+    "code": "→ github.com/sankar-prog/Prathap--project",
+    "demo": "→ pro-skin.vercel.app"
+  }
+}
+```
+[Code](https://github.com/sankar-prog/Prathap--project) · [Demo](https://pro-skin.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-**💼 Portfolio**
-`HTML` `CSS` `JavaScript`
-<br/>
-[Live →](https://progsankar.vercel.app/)
+```json
+{
+  "name": "Portfolio",
+  "stack": ["HTML", "CSS", "JS"],
+  "links": {
+    "live": "→ progsankar.vercel.app"
+  }
+}
+```
+[Live](https://progsankar.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-<br/>
+<pre align="center">
+░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
+</pre>
+
+## ▸ `analytics --stats`
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=D4AF37&icon_color=00FF41&text_color=00FF41" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&theme=dark&bg_color=00000000&hide_border=true&title_color=D4AF37&text_color=00FF41" height="165"/>
 
-## 📊 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-prog&theme=dark&background=00000000&hide_border=true&ring=00FF41&fire=D4AF37&currStreakLabel=00FF41"/>
 
 </div>
+
+<pre align="center">
+░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
+</pre>
+
+## ▸ `connect --init`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=B57BFF&icon_color=B57BFF&text_color=cdd6f4" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&theme=dark&bg_color=00000000&hide_border=true&title_color=B57BFF&text_color=cdd6f4" height="165"/>
+<a href="https://github.com/sankar-prog"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=github&logoColor=00FF41"/></a>
+<a href="https://www.linkedin.com/in/sankar-arumugam-489b76366"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=linkedin&logoColor=00FF41"/></a>
+<a href="https://x.com/ffsankar007"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=x&logoColor=00FF41"/></a>
+<a href="https://www.instagram.com/_.sanxxr"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=instagram&logoColor=00FF41"/></a>
+<a href="mailto:devo.sankar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=gmail&logoColor=00FF41"/></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-prog&theme=dark&background=00000000&hide_border=true&ring=B57BFF&fire=B57BFF&currStreakLabel=B57BFF"/>
+<br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 📡 Get In Touch
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">📞<br/><sub>+91 8438506725</sub></td>
-<td align="center">📍<br/><sub>Chennai, India</sub></td>
-<td align="center">💼<br/><sub>Open to opportunities</sub></td>
-</tr>
-</table>
-
-<div align="center"><br/>
-
-<a href="https://github.com/sankar-prog"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=B57BFF&logo=github&logoColor=B57BFF"/></a>
-<a href="https://www.linkedin.com/in/sankar-arumugam-489b76366"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=B57BFF&logo=linkedin&logoColor=B57BFF"/></a>
-<a href="https://x.com/ffsankar007"><img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=B57BFF&logo=x&logoColor=B57BFF"/></a>
-<a href="https://www.instagram.com/_.sanxxr"><img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=B57BFF&logo=instagram&logoColor=B57BFF"/></a>
-<a href="mailto:devo.sankar@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=B57BFF&logo=gmail&logoColor=B57BFF"/></a>
+```
+> connection established. thank you for visiting.
+> type "follow" to continue the conversation.
+```
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001a0a&height=100&section=footer"/>
