@@ -46,7 +46,7 @@ me.say_hi()
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>â¬† my contribution snake, eating my own commits â¬†</sub>
 
