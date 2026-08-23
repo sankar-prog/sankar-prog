@@ -4,15 +4,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github.com/sankar-prog.png" width="140" alt="Sankar"/>
-</p>
-
-<h1 align="center">SANKAR</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=850&height=60&lines=root%40sankar%3A~%24+whoami;%3E+Python+%2F+Django+Developer;root%40sankar%3A~%24+status;%3E+AVAILABLE+FOR+HIRE+%5B%2B%5D;root%40sankar%3A~%24+stack;%3E+Python+%7C+Django+%7C+MySQL+%7C+Git;root%40sankar%3A~%24+./build_future.sh;%3E+CODE.+CREATE.+EVOLVE._" alt="Terminal"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=root%40sankar%3A~%24+whoami;%3E+fresher+python+%2F+django+developer;root%40sankar%3A~%24+status;%3E+available+for+hire+%E2%9C%93;root%40sankar%3A~%24+cat+philosophy.txt;%3E+coffee+%2B+code+%2B+curiosity" />
 
 <br/><br/>
 
