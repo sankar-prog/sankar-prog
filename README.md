@@ -43,73 +43,8 @@
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 ## ▸ `cat projects/*.json`
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/projects-showcase.svg" width="100%"/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-```json
-{
-  "name": "E-Commerce Website",
-  "stack": ["HTML", "CSS", "JS"],
-  "links": {
-    "code": "→ github.com/sankar-prog/E-Commerce",
-    "demo": "→ e-commerce-cia1.vercel.app"
-  }
-}
-```
-[Code](https://github.com/sankar-prog/E-Commerce) · [Demo](https://e-commerce-cia1.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-```json
-{
-  "name": "Bus Ticket Booking",
-  "stack": ["Django", "MySQL", "HTML/CSS"],
-  "links": {
-    "code": "→ github.com/sankar-prog/bus-booking"
-  }
-}
-```
-[Code](https://github.com/sankar-prog/bus-booking)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```json
-{
-  "name": "AI Skin Disease Detection",
-  "stack": ["API", "HTML", "CSS", "JS"],
-  "links": {
-    "code": "→ github.com/sankar-prog/Prathap--project",
-    "demo": "→ pro-skin.vercel.app"
-  }
-}
-```
-[Code](https://github.com/sankar-prog/Prathap--project) · [Demo](https://pro-skin.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-```json
-{
-  "name": "Portfolio",
-  "stack": ["HTML", "CSS", "JS"],
-  "links": {
-    "live": "→ progsankar.vercel.app"
-  }
-}
-```
-[Live](https://progsankar.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 ## ▸ `analytics --stats`
 
