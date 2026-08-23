@@ -1,0 +1,89 @@
+<svg width="480" height="260" viewBox="0 0 480 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="avatarClip">
+      <circle cx="90" cy="130" r="52"/>
+    </clipPath>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#001a0a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <filter id="cardGlow">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- hex-cut card body -->
+  <polygon points="20,0 460,0 480,20 480,240 460,260 20,260 0,240 0,20"
+           fill="url(#cardBg)" stroke="#00FF41" stroke-width="2" filter="url(#cardGlow)"/>
+
+  <!-- pulsing border overlay -->
+  <polygon points="20,0 460,0 480,20 480,240 460,260 20,260 0,240 0,20"
+           fill="none" stroke="#D4AF37" stroke-width="1" opacity="0.5">
+    <animate attributeName="opacity" values="0.15;0.6;0.15" dur="2.4s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- top strip -->
+  <text x="240" y="24" text-anchor="middle" font-family="monospace" font-size="11" fill="#D4AF37" letter-spacing="3">
+    ▣ IDENTITY VERIFICATION CARD ▣
+  </text>
+  <line x1="20" y1="34" x2="460" y2="34" stroke="#0a3d1f" stroke-width="1"/>
+
+  <!-- avatar with rotating hologram ring -->
+  <circle cx="90" cy="130" r="58" fill="none" stroke="#0a3d1f" stroke-width="1"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 90 130" to="360 90 130" dur="6s" repeatCount="indefinite"/>
+    <circle cx="90" cy="130" r="58" fill="none" stroke="#00FF41" stroke-width="2" stroke-dasharray="10 14" opacity="0.8"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360 90 130" to="0 90 130" dur="9s" repeatCount="indefinite"/>
+    <circle cx="90" cy="130" r="66" fill="none" stroke="#D4AF37" stroke-width="1" stroke-dasharray="2 10" opacity="0.6"/>
+  </g>
+
+  <image href="https://avatars.githubusercontent.com/u/197928992?v=4" x="38" y="78" width="104" height="104" clip-path="url(#avatarClip)"/>
+  <circle cx="90" cy="130" r="52" fill="none" stroke="#00FF41" stroke-width="2"/>
+
+  <!-- scanning line sweeping over avatar -->
+  <rect x="38" y="0" width="104" height="6" fill="#00FF41" opacity="0.55">
+    <animate attributeName="y" values="78;178;78" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- data fields with flicker -->
+  <g font-family="monospace" font-size="13" fill="#00FF41">
+    <text x="175" y="70">NAME&#160;&#160;&#160;&#160;: <tspan fill="#D4AF37">SANKAR</tspan></text>
+    <text x="175" y="94">CLASS&#160;&#160;&#160;: Python / Django Dev</text>
+    <text x="175" y="118">RANK&#160;&#160;&#160;&#160;: Fresher · Entry Level</text>
+    <text x="175" y="142">ORIGIN&#160;&#160;: Chennai (Dharmapuri), IN</text>
+    <text x="175" y="166">ACCESS&#160;&#160;: Public Repos&#160;
+      <tspan fill="#D4AF37">✓</tspan>
+    </text>
+    <text x="175" y="190">
+      STATUS&#160;&#160;:
+      <tspan fill="#00FF41">
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/>
+        ● ONLINE — AVAILABLE
+      </tspan>
+    </text>
+  </g>
+
+  <line x1="20" y1="210" x2="460" y2="210" stroke="#0a3d1f" stroke-width="1"/>
+
+  <!-- animated barcode -->
+  <g fill="#00FF41">
+    <rect x="20" y="222" width="2" height="26"><animate attributeName="height" values="26;10;26" dur="1.3s" repeatCount="indefinite"/></rect>
+    <rect x="26" y="222" width="4" height="26"><animate attributeName="height" values="26;16;26" dur="1.7s" repeatCount="indefinite"/></rect>
+    <rect x="34" y="222" width="1" height="26"><animate attributeName="height" values="26;8;26" dur="1.1s" repeatCount="indefinite"/></rect>
+    <rect x="39" y="222" width="3" height="26"><animate attributeName="height" values="26;20;26" dur="1.9s" repeatCount="indefinite"/></rect>
+    <rect x="46" y="222" width="2" height="26"><animate attributeName="height" values="26;12;26" dur="1.4s" repeatCount="indefinite"/></rect>
+    <rect x="52" y="222" width="5" height="26"><animate attributeName="height" values="26;18;26" dur="2.0s" repeatCount="indefinite"/></rect>
+    <rect x="60" y="222" width="1" height="26"><animate attributeName="height" values="26;9;26" dur="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="65" y="222" width="3" height="26"><animate attributeName="height" values="26;22;26" dur="1.6s" repeatCount="indefinite"/></rect>
+    <rect x="72" y="222" width="2" height="26"><animate attributeName="height" values="26;14;26" dur="1.8s" repeatCount="indefinite"/></rect>
+    <rect x="78" y="222" width="4" height="26"><animate attributeName="height" values="26;10;26" dur="1.5s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="90" y="240" font-family="monospace" font-size="9" fill="#5fffb0" opacity="0.6">ID:197928992</text>
+
+  <text x="460" y="240" text-anchor="end" font-family="monospace" font-size="9" fill="#5fffb0" opacity="0.6">
+    verified by sankar-prog/os
+  </text>
+</svg>
