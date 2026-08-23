@@ -12,6 +12,30 @@
 <img src="https://komarev.com/ghpvc/?username=sankar-prog&label=VISITORS&color=00FF41&style=flat-square&labelColor=000000"/>
 <img src="https://img.shields.io/badge/LOCATION-CHENNAI_%2F_DHARMAPURI-000000?style=flat-square&color=D4AF37&labelColor=000000"/>
 
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/197928992?v=4" width="90" style="border-radius:50%"/>
+</td>
+<td>
+
+```
+◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
+  IDENTITY CARD
+  NAME    : Sankar
+  CLASS   : Python / Django Dev
+  RANK    : Fresher
+  ACCESS  : Public Repos ✓
+  STATUS  : ● Online — Available
+◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
+```
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
@@ -62,6 +86,12 @@ system status: ██████████ 100%
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/stats-ticker.svg" width="90%"/>
+
+</div>
+
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 ## ▸ `ls skills/`
@@ -102,6 +132,12 @@ Docker ~    [07/20] ███████░░░░░░░░░░░░░
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/skills-orbit.svg" width="70%"/>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
@@ -203,6 +239,21 @@ easter_egg  : if you're reading this, you scrolled further than 90% of visitors 
 </details>
 
 <br/>
+
+## ▸ `unlock --achievements`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_EARLY_RISER_DEBUGGER-000000?style=flat-square&color=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🥋_GIT_NINJA_(MOST_DAYS)-000000?style=flat-square&color=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/☕_COFFEE_TO_CODE_CONVERTER-000000?style=flat-square&color=D4AF37&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/🌙_2AM_CARDIO_CHAMPION-000000?style=flat-square&color=D4AF37&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🔥_100_PERCENT_DEDICATION-000000?style=flat-square&color=00FF41&labelColor=000000"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 ## ▸ `connect --init`
 
