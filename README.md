@@ -37,7 +37,6 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/activity-radar.svg" width="55%"/>
 
 </div>
 
