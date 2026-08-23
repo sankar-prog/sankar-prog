@@ -1,51 +1,58 @@
-- 👋 Hi, I’m @sankar-prog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    S A N K A R  /  P R O F I L E              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-👋 Hi there! I'm Sankar, a passionate programmer and technology enthusiast.
+<div align="center">
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:111111,100:1a1a1a&text=SANKAR&fontColor=ffffff&fontSize=70&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20PYTHON%20%7C%20WEB&descAlignY=64&descSize=15&animation=fadeIn" width="100%"/>
 
-- 🌱 Currently learning and exploring new technologies.
-- 💼 Working on various software development projects.
-- 🤝 Open to collaborating on exciting projects.
-- 📫 How to reach me: devo.sankar@gmail.com
+<br>
 
-## Skills
+### `BUILDING DIGITAL EXPERIENCES.`
 
-- **Programming Languages:** 
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Python Developer · Web Developer · Problem Solver**
 
-- **Web Development:** 
-  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+<br>
 
-- **Databases:** 
-  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  
-- **Tools & Platforms:** 
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  
-## Projects
+<a href="https://devsankar.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sankar-a-480a4434a">
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/sankar-prog">
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Project 1: Web Application
-I have build portfolio website
+<br><br>
 
+<img src="https://komarev.com/ghpvc/?username=sankar-prog&label=PROFILE%20VISITORS&color=111111&style=flat-square"/>
 
-![Sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&theme=radical)
+</div>
 
-## Let's Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankar-prog)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sankar_prog)
+<div align="center">
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+## `01 / IDENTITY`
 
-![Profile Views](https://komarev.com/ghpvc/?username=sankar-prog&color=blue)
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### SANKAR
+
+I'm a developer who enjoys turning ideas into **clean, functional and meaningful digital products.**
+
+My main focus is **Python development, web technologies and database-driven applications**.
+
+I care about:
+
+```text
+01  Clean Architecture
+02  Useful Interfaces
+03  Scalable Code
+04  Continuous Learning
+05  Real-World Solutions
