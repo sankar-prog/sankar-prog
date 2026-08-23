@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+<defs>
+  <radialGradient id="bg"><stop stop-color="#101a13"/><stop offset="1" stop-color="#030604"/></radialGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    text{font-family:"Fira Code",monospace}
+    .line{fill:none;stroke:#00ff41;stroke-width:1.2;opacity:.28;stroke-dasharray:5 12;animation:flow 1.7s linear infinite}
+    .line2{fill:none;stroke:#d8b45a;stroke-width:1;opacity:.18;stroke-dasharray:3 18;animation:flow 3s linear infinite}
+    .node{fill:#08100b;stroke:#00ff41;stroke-width:1.4;animation:breathe 3s ease-in-out infinite}
+    .node2{fill:#0a0d0a;stroke:#8fa995;stroke-width:1}
+    .core{fill:#061108;stroke:#00ff41;stroke-width:2;filter:url(#glow);animation:core 2.2s ease-in-out infinite}
+    .dot{fill:#00ff41;filter:url(#glow);animation:dot 1.8s ease-in-out infinite}
+    .title{fill:#eaffee;font-size:25px;font-weight:700;letter-spacing:4px}
+    .skill{fill:#dfffe7;font-size:16px;font-weight:600}
+    .label{fill:#6e8c76;font-size:10px;letter-spacing:2px}
+    .tiny{fill:#4d6654;font-size:9px;letter-spacing:1.5px}
+    @keyframes flow{to{stroke-dashoffset:-34}}
+    @keyframes breathe{0%,100%{opacity:.75}50%{opacity:1}}
+    @keyframes core{0%,100%{filter:url(#glow);opacity:.75}50%{filter:url(#glow);opacity:1}}
+    @keyframes dot{0%,100%{opacity:.3}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.line,.line2,.node,.core,.dot{animation:none}}
+  </style>
+</defs>
+
+<rect width="1100" height="620" rx="28" fill="url(#bg)" stroke="#183a22"/>
+<path d="M35 70H1065M35 585H1065" stroke="#14351e"/>
+<text x="55" y="50" class="label">SANKAR // DEVELOPMENT SYSTEM</text>
+<text x="1045" y="50" text-anchor="end" class="tiny">SKILL_MATRIX v2.6</text>
+
+<!-- network -->
+<g>
+<path class="line" d="M550 305L205 165M550 305L550 130M550 305L895 165M550 305L210 455M550 305L890 455M550 305L550 510"/>
+<path class="line2" d="M205 165L895 165M210 455L890 455M205 165L210 455M895 165L890 455"/>
+</g>
+
+<!-- core -->
+<circle cx="550" cy="305" r="112" fill="none" stroke="#123b20" stroke-dasharray="3 15"/>
+<circle cx="550" cy="305" r="86" class="core"/>
+<circle cx="550" cy="305" r="67" fill="#050b06" stroke="#1f6c35"/>
+<text x="550" y="296" text-anchor="middle" fill="#00ff41" font-size="12" letter-spacing="3">CORE</text>
+<text x="550" y="325" text-anchor="middle" fill="#effff2" font-size="29" font-weight="700">PYTHON</text>
+<circle class="dot" cx="550" cy="250" r="4"/>
+
+<!-- nodes -->
+<g transform="translate(75 115)">
+<rect class="node" width="260" height="92" rx="18"/>
+<circle class="dot" cx="25" cy="27" r="4"/>
+<text class="skill" x="45" y="34">Django</text><text class="label" x="24" y="62">WEB FRAMEWORK</text>
+<text class="tiny" x="24" y="80">BACKEND · MVC · ORM</text>
+</g>
+
+<g transform="translate(420 80)">
+<rect class="node" width="260" height="92" rx="18"/>
+<circle class="dot" cx="25" cy="27" r="4"/>
+<text class="skill" x="45" y="34">HTML · CSS · JavaScript</text><text class="label" x="24" y="62">WEB TECHNOLOGY</text>
+<text class="tiny" x="24" y="80">UI · RESPONSIVE · INTERACTION</text>
+</g>
+
+<g transform="translate(765 115)">
+<rect class="node" width="260" height="92" rx="18"/>
+<circle class="dot" cx="25" cy="27" r="4"/>
+<text class="skill" x="45" y="34">MySQL · Oracle</text><text class="label" x="24" y="62">DATABASE</text>
+<text class="tiny" x="24" y="80">SQL · DATA · QUERIES</text>
+</g>
+
+<g transform="translate(80 410)">
+<rect class="node2" width="260" height="92" rx="18"/>
+<circle class="dot" cx="25" cy="27" r="4"/>
+<text class="skill" x="45" y="34">Git · GitHub</text><text class="label" x="24" y="62">VERSION CONTROL</text>
+<text class="tiny" x="24" y="80">BRANCH · COMMIT · COLLAB</text>
+</g>
+
+<g transform="translate(760 410)">
+<rect class="node2" width="260" height="92" rx="18"/>
+<circle class="dot" cx="25" cy="27" r="4"/>
+<text class="skill" x="45" y="34">Web Development</text><text class="label" x="24" y="62">FULL STACK FOUNDATION</text>
+<text class="tiny" x="24" y="80">FRONTEND · BACKEND · DATABASE</text>
+</g>
+
+<!-- footer -->
+<g transform="translate(390 545)">
+<rect width="320" height="34" rx="17" fill="#08110a" stroke="#173d21"/>
+<circle cx="20" cy="17" r="4" class="dot"/>
+<text x="34" y="21" class="tiny">BUILDING · LEARNING · EVOLVING</text>
+</g>
+</svg>
