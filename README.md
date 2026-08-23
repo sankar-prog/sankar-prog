@@ -28,57 +28,6 @@
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
-## ▸ `whoami`
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-```diff
-+ name        : Sankar
-+ role        : Python / Django Developer
-+ level       : Fresher · Entry Level
-+ base        : Chennai, India (from Dharmapuri)
-+ status      : Available for hire
-```
-
-I speak Python more fluently than my alarm clock at 6 a.m. Soft spot for Django, clean code, and databases that don't run away screaming *(thanks, MySQL)*.
-
-I take random ideas, feed them coffee, and turn them into working projects. Two lessons learned so far — `git is my friend (most days)` and `debugging at 2am counts as cardio`.
-
-Off the clock: volleyball 🏐 · chess ♟️ · travel ✈️ · movie marathons 🎬
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/system-load.svg"/>
-
-</td>
-<td width="45%" valign="top">
-
-```
-> boot_sequence.log
-
-[OK] loading personality.dll
-[OK] mounting curiosity/
-[OK] django == installed
-[OK] coffee.exe running
-[WARN] sleep_schedule not found
-[OK] ready_for_opportunities = True
-
-system status: ██████████ 100%
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/stats-ticker.svg" width="90%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 ## ▸ `ls skills/`
 
