@@ -16,9 +16,7 @@
 
 <br/>
 
-<pre align="center">
-░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
-</pre>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 ## ▸ `whoami`
 
@@ -40,6 +38,10 @@ I take random ideas, feed them coffee, and turn them into working projects. Two 
 
 Off the clock: volleyball 🏐 · chess ♟️ · travel ✈️ · movie marathons 🎬
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/system-load.svg"/>
+
 </td>
 <td width="45%" valign="top">
 
@@ -60,9 +62,7 @@ system status: ██████████ 100%
 </tr>
 </table>
 
-<pre align="center">
-░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
-</pre>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 ## ▸ `ls skills/`
 
@@ -103,9 +103,7 @@ Docker ~    [07/20] ███████░░░░░░░░░░░░░
 </tr>
 </table>
 
-<pre align="center">
-░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
-</pre>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 ## ▸ `cat projects/*.json`
 
@@ -174,9 +172,7 @@ Docker ~    [07/20] ███████░░░░░░░░░░░░░
 </tr>
 </table>
 
-<pre align="center">
-░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
-</pre>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 ## ▸ `analytics --stats`
 
@@ -189,9 +185,24 @@ Docker ~    [07/20] ███████░░░░░░░░░░░░░
 
 </div>
 
-<pre align="center">
-░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░ ░▒▓█ ▓█ █▓ ▓▒░
-</pre>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
+
+<details>
+<summary>▸ <code>sudo unlock --secret</code></summary>
+<br/>
+
+```
+[ACCESS GRANTED]
+
+fun_fact_01 : once debugged for 4 hours — the bug was a missing semicolon
+fun_fact_02 : can beat most friends at chess, loses to phone alarm every morning
+fun_fact_03 : believes clean code is a love language
+easter_egg  : if you're reading this, you scrolled further than 90% of visitors 👀
+```
+
+</details>
+
+<br/>
 
 ## ▸ `connect --init`
 
@@ -214,4 +225,4 @@ Docker ~    [07/20] ███████░░░░░░░░░░░░░
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001a0a&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/footer-rain.svg" width="100%"/>
