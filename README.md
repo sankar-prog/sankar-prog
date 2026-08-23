@@ -17,21 +17,7 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://avatars.githubusercontent.com/u/197928992?v=4" width="90" style="border-radius:50%"/>
-</td>
-<td>
-
-```
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-  IDENTITY CARD
-  NAME    : Sankar
-  CLASS   : Python / Django Dev
-  RANK    : Fresher
-  ACCESS  : Public Repos ✓
-  STATUS  : ● Online — Available
-◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
-```
-
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/id-card.svg" width="100%"/>
 </td>
 </tr>
 </table>
