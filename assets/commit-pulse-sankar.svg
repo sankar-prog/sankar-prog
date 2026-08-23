@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#020403"/><stop offset=".5" stop-color="#07110a"/><stop offset="1" stop-color="#020403"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop stop-color="#00ff41" stop-opacity=".05"/>
+    <stop offset=".5" stop-color="#00ff41"/>
+    <stop offset="1" stop-color="#00ff41" stop-opacity=".05"/>
+  </linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M30 0H0V30" fill="none" stroke="#00ff41" stroke-opacity=".035"/>
+  </pattern>
+  <style>
+    text{font-family:"Fira Code","JetBrains Mono",monospace}
+    .pulse{animation:pulse 2.4s ease-in-out infinite}
+    .flow{stroke-dasharray:5 12;animation:flow 1.35s linear infinite}
+    .wave{stroke-dasharray:3 9;animation:flow .9s linear infinite}
+    .blink{animation:blink 1.1s steps(2,end) infinite}
+    .scan{animation:scan 4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.45;transform:scale(1)}50%{opacity:1;transform:scale(1.12)}}
+    @keyframes flow{to{stroke-dashoffset:-34}}
+    @keyframes blink{50%{opacity:.15}}
+    @keyframes scan{0%,100%{opacity:.02}50%{opacity:.12}}
+  </style>
+</defs>
+
+<rect width="1200" height="360" rx="28" fill="url(#bg)" stroke="#163b21"/>
+<rect x="1" y="1" width="1198" height="358" rx="27" fill="url(#grid)"/>
+
+<!-- top terminal -->
+<circle cx="38" cy="35" r="5" fill="#ff5f56"/>
+<circle cx="56" cy="35" r="5" fill="#ffbd2e"/>
+<circle cx="74" cy="35" r="5" fill="#27c93f"/>
+<text x="100" y="39" fill="#58745f" font-size="11" letter-spacing="2">COMMIT-PULSE // SANKAR</text>
+<text x="1160" y="39" text-anchor="end" fill="#00ff41" font-size="10">LIVE TELEMETRY</text>
+
+<line x1="30" y1="62" x2="1170" y2="62" stroke="#14351e"/>
+
+<!-- main metric -->
+<text x="60" y="105" fill="#667e6b" font-size="10" letter-spacing="3">GITHUB ACTIVITY</text>
+<text x="60" y="151" fill="#effff2" font-size="31" font-weight="700">COMMIT PULSE</text>
+<text x="60" y="179" fill="#00ff41" font-size="12">root@sankar:~$ git status --pulse</text>
+
+<!-- heartbeat -->
+<path d="M60 245 L180 245 L205 245 L225 215 L245 274 L267 245 L320 245 L350 245 L370 235 L390 255 L410 245 L470 245"
+      fill="none" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+<path class="wave" d="M470 245 L490 245 L510 230 L530 260 L550 245 L590 245 L610 220 L630 270 L650 245 L690 245 L710 235 L730 255 L750 245 L800 245"
+      fill="none" stroke="#00ff41" stroke-width="1.5"/>
+<circle class="pulse" cx="800" cy="245" r="6" fill="#00ff41" filter="url(#glow)"/>
+
+<!-- telemetry cards -->
+<g transform="translate(850 92)">
+  <rect width="280" height="70" rx="14" fill="#07100a" stroke="#164626"/>
+  <text x="20" y="25" fill="#58745f" font-size="9" letter-spacing="2">REPOSITORY</text>
+  <text x="20" y="51" fill="#dfffe5" font-size="16">sankar-prog</text>
+  <circle class="blink" cx="250" cy="28" r="4" fill="#00ff41"/>
+</g>
+
+<g transform="translate(850 178)">
+  <rect width="280" height="70" rx="14" fill="#07100a" stroke="#164626"/>
+  <text x="20" y="25" fill="#58745f" font-size="9" letter-spacing="2">STATE</text>
+  <text x="20" y="51" fill="#7fe994" font-size="16">● ACTIVE</text>
+</g>
+
+<g transform="translate(850 264)">
+  <rect width="280" height="48" rx="12" fill="#050b06" stroke="#12351d"/>
+  <text x="20" y="30" fill="#526d58" font-size="9">SIGNAL</text>
+  <rect x="78" y="22" width="125" height="3" rx="2" fill="#15351d"/>
+  <rect class="scan" x="78" y="22" width="82" height="3" rx="2" fill="#00ff41"/>
+  <text x="265" y="30" text-anchor="end" fill="#00ff41" font-size="9">ONLINE</text>
+</g>
+
+<!-- animated data line -->
+<path class="flow" d="M60 315 H1140" stroke="#00ff41" stroke-width="1" opacity=".22"/>
+<circle class="blink" cx="60" cy="315" r="3" fill="#00ff41"/>
+<text x="60" y="337" fill="#405844" font-size="9">BUILD · COMMIT · PUSH · REPEAT</text>
+<text x="1140" y="337" text-anchor="end" fill="#405844" font-size="9">SYSTEM // READY</text>
+</svg>
