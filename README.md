@@ -1,184 +1,140 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=280&section=header&text=SANKAR.DEV&fontSize=70&fontColor=b57bff&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20Turning%20Coffee%20Into%20Code&descSize=18&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Sankar&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Python%20%C2%B7%20Django%20%C2%B7%20Full-Stack%20in%20Training&descSize=16&descAlignY=62" width="100%"/>
 
 <br/>
 
-<a href="https://progsankar.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9A%A1+Fresher+Python+%2F+Django+Developer;%F0%9F%9A%80+Building+Ideas+Into+Web+Apps;%F0%9F%92%9C+Chennai+%C2%B7+Dharmapuri+%2C+India;%F0%9F%94%AD+Currently+Exploring+AWS+%26+Docker&font=Fira+Code&size=24&pause=1200&color=B57BFF&center=true&vCenter=true&width=780&height=50&duration=3000&random=false" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=const+dev+%3D+%7B+role%3A+%22Fresher+Backend+Dev%22+%7D;while(true)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D;git+commit+-m+%22turning+coffee+into+code%22" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-000000?style=for-the-badge&labelColor=1a0033&color=b57bff" />
-<img src="https://img.shields.io/badge/LOCATION-INDIA-000000?style=for-the-badge&labelColor=1a0033&color=8a2be2" />
-<img src="https://komarev.com/ghpvc/?username=sankar-prog&label=PROFILE+VIEWS&color=b57bff&style=for-the-badge&labelColor=1a0033" />
+<a href="https://progsankar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="mailto:devo.sankar@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sankar-arumugam-489b76366"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=sankar-prog&style=flat-square&color=6d28d9&label=Profile+Views"/>
 
 </div>
 
-<br/>
+&nbsp;
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+## `01` &nbsp;Snapshot
 
-<h2 align="center">ðŸŒŒ &nbsp; ABOUT THE DEVELOPER &nbsp; ðŸŒŒ</h2>
-
-<table align="center" width="100%">
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-```python
-class Sankar:
-    def __init__(self):
-        self.role       = "Fresher Python / Django Developer"
-        self.location   = "Chennai (via Dharmapuri), India"
-        self.stack      = ["Python", "Django", "MySQL", "JS", "HTML/CSS"]
-        self.learning   = ["AWS", "Docker", "REST APIs"]
-        self.hobbies    = ["Volleyball ðŸ", "Chess â™Ÿï¸", "Travel âœˆï¸", "Movies ðŸŽ¬"]
-        self.mood       = "Debugging at 2am counts as cardio"
+I'm a fresher developer based in **Chennai (originally from Dharmapuri)**, currently deep into **Python & Django**. I like clean code, quiet debugging sessions, and projects that actually ship.
 
-    def say_hi(self):
-        print("Let's build something legendary. ðŸš€")
+Off-screen: volleyball 🏐, chess ♟️, and terrible movie marathons 🎬
 
-me = Sankar()
-me.say_hi()
+</td>
+<td width="45%">
+
+```yaml
+role: Fresher Python / Django Developer
+based_in: Chennai, India
+focus: [Django, MySQL, REST APIs]
+currently_learning: [AWS, Docker]
+status: open to opportunities
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
+</tr>
+</table>
 
-   <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>â¬† my contribution snake, eating my own commits â¬†</sub>
+&nbsp;
+
+## `02` &nbsp;Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,django,mysql,js,html,css,git,vscode,aws,docker&theme=light&perline=10"/>
+
+</div>
+
+<div align="center">
+
+&nbsp;
+
+| Core | Level |
+|---|---|
+| Python | ██████████████████░░ 85% |
+| HTML | ███████████████████░ 90% |
+| CSS | ████████████████░░░░ 80% |
+| Django | ████████████████░░░░ 80% |
+| Git | ██████████████████░░ 85% |
+| JavaScript | ███████████████░░░░░ 70% |
+| SQL | ███████████████░░░░░ 75% |
+| MySQL | ███████████████░░░░░ 75% |
+| AWS *(learning)* | █████████░░░░░░░░░░░ 40% |
+| Docker *(learning)* | ███████░░░░░░░░░░░░░ 35% |
+
+</div>
+
+&nbsp;
+
+## `03` &nbsp;Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🛒 E-Commerce Website**
+HTML · CSS · JavaScript
+[`Code`](https://github.com/sankar-prog/E-Commerce) · [`Live`](https://e-commerce-cia1.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**🚌 Bus Ticket Booking**
+Django · MySQL · HTML/CSS
+[`Code`](https://github.com/sankar-prog/bus-booking)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 AI Skin Disease Detection**
+API · HTML · CSS · JavaScript
+[`Code`](https://github.com/sankar-prog/Prathap--project) · [`Live`](https://pro-skin.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Portfolio Site**
+HTML · CSS · JavaScript
+[`Live`](https://progsankar.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+&nbsp;
 
-<h2 align="center">ðŸ› ï¸ &nbsp; TECH ARSENAL &nbsp; ðŸ› ï¸</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,django,js,html,css,mysql,git,vscode,aws,docker&theme=dark" />
-
-<br/><br/>
-
-**Language Mastery**
-
-![Python](https://progress-bar.dev/85/?title=Python&width=220&color=b57bff)
-![JavaScript](https://progress-bar.dev/70/?title=JavaScript&width=220&color=b57bff)
-![SQL](https://progress-bar.dev/75/?title=SQL&width=220&color=b57bff)
-![HTML](https://progress-bar.dev/90/?title=HTML&width=220&color=b57bff)
-![CSS](https://progress-bar.dev/80/?title=CSS&width=220&color=b57bff)
-
-**Frameworks & Tools**
-
-![Django](https://progress-bar.dev/80/?title=Django&width=220&color=8a2be2)
-![Git](https://progress-bar.dev/85/?title=Git&width=220&color=8a2be2)
-![MySQL](https://progress-bar.dev/75/?title=MySQL&width=220&color=8a2be2)
-![VSCode](https://progress-bar.dev/90/?title=VSCode&width=220&color=8a2be2)
-
-**Currently Leveling Up**
-
-![AWS](https://progress-bar.dev/40/?title=AWS&width=220&color=4b0082)
-![Docker](https://progress-bar.dev/35/?title=Docker&width=220&color=4b0082)
-![REST APIs](https://progress-bar.dev/60/?title=REST_APIs&width=220&color=4b0082)
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-<h2 align="center">âœ¨ &nbsp; FEATURED PROJECTS &nbsp; âœ¨</h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-### ðŸ›’ E-Commerce Website
-Built with HTML, CSS & JavaScript
-
-<a href="https://github.com/sankar-prog/E-Commerce"><img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=b57bff&labelColor=1a0033"/></a>
-<a href="https://e-commerce-cia1.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=b57bff&labelColor=1a0033"/></a>
-
-</td>
-<td width="50%">
-
-### ðŸšŒ Bus Ticket Booking
-Django + MySQL + HTML/CSS
-
-<a href="https://github.com/sankar-prog/bus-booking"><img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=b57bff&labelColor=1a0033"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ðŸ©º AI Skin Disease Detection
-API + HTML, CSS, JavaScript
-
-<a href="https://github.com/sankar-prog/Prathap--project"><img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=b57bff&labelColor=1a0033"/></a>
-<a href="https://pro-skin.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=b57bff&labelColor=1a0033"/></a>
-
-</td>
-<td width="50%">
-
-### ðŸ’¼ Portfolio
-Personal site â€” HTML, CSS, JavaScript
-
-<a href="https://progsankar.vercel.app/"><img src="https://img.shields.io/badge/LIVE_SITE-000000?style=for-the-badge&logo=vercel&logoColor=b57bff&labelColor=1a0033"/></a>
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-<h2 align="center">ðŸ“Š &nbsp; GITHUB ANALYTICS &nbsp; ðŸ“Š</h2>
+## `04` &nbsp;GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=radical&bg_color=00000000&title_color=b57bff&icon_color=8a2be2&text_color=ffffff&border_color=b57bff&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&theme=radical&bg_color=00000000&title_color=b57bff&text_color=ffffff&border_color=b57bff&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=cdd6f4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=A78BFA&text_color=cdd6f4" height="165"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-prog&theme=radical&background=00000000&border=b57bff&ring=8a2be2&fire=b57bff&currStreakLabel=b57bff" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sankar-prog&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-prog&theme=tokyonight&background=00000000&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+&nbsp;
 
-<h2 align="center">ðŸ“¡ &nbsp; CONNECT WITH ME &nbsp; ðŸ“¡</h2>
+## `05` &nbsp;Let's Talk
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sankar-arumugam-489b76366"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=b57bff&labelColor=1a0033"/></a>
-<a href="https://x.com/ffsankar007"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=b57bff&labelColor=1a0033"/></a>
-<a href="https://www.instagram.com/_.sanxxr"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=b57bff&labelColor=1a0033"/></a>
-<a href="mailto:devo.sankar@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=b57bff&labelColor=1a0033"/></a>
-<a href="https://progsankar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=b57bff&labelColor=1a0033"/></a>
+Open to internships, junior roles, and collaborative projects.
+Reach out — I reply faster than my code compiles.
 
-<br/><br/>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
+<a href="https://x.com/ffsankar007"><img src="https://img.shields.io/badge/X_/_Twitter-000000?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/_.sanxxr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-### ðŸ’¬ "Git is my friend â€” most days. Debugging at 2am counts as cardio."
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=150&section=footer&animation=fadeIn" />
-
-<div align="center">
-<sub>â­ Thanks for visiting â€” feel free to star my repos and drop a follow!</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
