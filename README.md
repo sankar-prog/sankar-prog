@@ -68,22 +68,10 @@
 
 <br/>
 
-## ▸ `unlock --achievements`
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏆_EARLY_RISER_DEBUGGER-000000?style=flat-square&color=00FF41&labelColor=000000"/>
-<img src="https://img.shields.io/badge/🥋_GIT_NINJA_(MOST_DAYS)-000000?style=flat-square&color=00FF41&labelColor=000000"/>
-<img src="https://img.shields.io/badge/☕_COFFEE_TO_CODE_CONVERTER-000000?style=flat-square&color=D4AF37&labelColor=000000"/>
-<br/>
-<img src="https://img.shields.io/badge/🌙_2AM_CARDIO_CHAMPION-000000?style=flat-square&color=D4AF37&labelColor=000000"/>
-<img src="https://img.shields.io/badge/🔥_100_PERCENT_DEDICATION-000000?style=flat-square&color=00FF41&labelColor=000000"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
-
-## ▸ `connect --init`
+<p align="center">
+  <img src="./assets/section-connect.svg" width="100%" alt="Skills">
+</p>
 
 <div align="center">
 
