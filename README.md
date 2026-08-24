@@ -52,21 +52,26 @@
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/commit-pulse.svg" width="95%"/>
 
 <br/><br/>
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&icon_color=00FF41&text_color=B8D9BE&ring_color=00FF41&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&icon_color=00FF41&text_color=B8D9BE&include_all_commits=true&count_private=false"
     height="175"
+    alt="Sankar GitHub Stats"
   />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&text_color=B8D9BE&langs_count=8"
     height="175"
+    alt="Sankar Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-prog&theme=dark&background=050805&hide_border=true&border_radius=14&ring=00FF41&fire=D4AF37&currStreakLabel=00FF41&sideLabels=B8D9BE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=52705A"
+    src="https://streak-stats.demolab.com/?user=sankar-prog&theme=dark&background=050805&hide_border=true&border_radius=14&ring=00FF41&fire=D4AF37&currStreakLabel=00FF41&sideLabels=B8D9BE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=52705A"
     height="190"
+    alt="Sankar GitHub Streak"
   />
 </p>
 
