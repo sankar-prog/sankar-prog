@@ -36,6 +36,16 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
+<p align="center">
+  <a href="https://progsankar.vercel.app/">
+    <img
+      src="./assets/section-portfolio.svg"
+      width="100%"
+      alt="Portfolio"
+    />
+  </a>
+</p>
+``` [❶](code://python)
 
 <p align="center">
   <img src="./assets/section-projects.svg" width="100%" alt="Skills">
