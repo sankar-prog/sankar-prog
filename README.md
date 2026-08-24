@@ -13,7 +13,11 @@
 <img src="https://img.shields.io/badge/LOCATION-CHENNAI_%2F_DHARMAPURI-000000?style=flat-square&color=D4AF37&labelColor=000000"/>
 
 <br/><br/>
+<p align="center">
+  <img src="./assets/section-about.svg" width="100%" alt="About Me">
+</p>
 
+<br/>
 <table>
 <tr>
 <td align="center">
