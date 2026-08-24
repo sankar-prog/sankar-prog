@@ -53,15 +53,6 @@
 
 <br/><br/>
 
-<h2>▸ <code>analytics --stats</code></h2>
-
-<img
-  src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/commit-pulse.svg"
-  width="100%"
-  alt="Commit Pulse"
-/>
-
-<br>
 
 <p align="center">
   <img
