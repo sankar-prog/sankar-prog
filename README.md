@@ -25,11 +25,14 @@
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 
-## ▸ `ls skills/`
+<p align="center">
+  <img src="./assets/section-stack.svg" width="100%" alt="Skills">
+</p>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/skill-tree.svg" width="90%"/>
+
 
 <br/><br/>
 
