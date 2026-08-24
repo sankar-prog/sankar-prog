@@ -7,11 +7,6 @@
 <p align="center">
   <img src="./assets/section-about.svg" width="100%" alt="About Me">
 <br/><br/>
-
-<img src="https://img.shields.io/badge/%E2%97%8F_ONLINE-000000?style=flat-square&color=00FF41&labelColor=000000"/>
-<img src="https://komarev.com/ghpvc/?username=sankar-prog&label=VISITORS&color=00FF41&style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/LOCATION-CHENNAI_%2F_DHARMAPURI-000000?style=flat-square&color=D4AF37&labelColor=000000"/>
-<br/>
 <table>
 <tr>
 <td align="center">
