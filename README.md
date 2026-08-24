@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/matrix-banner.svg" width="100%"/>
 <br/>
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
-<br/>
+<br/> <br/>
 <p align="center">
   <img src="./assets/section-about.svg" width="100%" alt="About Me">
 <br/><br/>
