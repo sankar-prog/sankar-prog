@@ -66,11 +66,8 @@
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 
-<br/>
-
-
 <p align="center">
-  <img src="./assets/section-connect.svg" width="100%" alt="Skills">
+  <img src="./assets/section-connect.svg" width="100%" alt="Connect">
 </p>
 
 <div align="center">
