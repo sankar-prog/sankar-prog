@@ -112,11 +112,6 @@
 </a>
 
 </td>
-<td>
-
-<span>● ONLINE</span>
-
-</td>
 </tr>
 </table>
 
