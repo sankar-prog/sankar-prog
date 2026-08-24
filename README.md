@@ -64,23 +64,22 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/sankar-prog">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&hide_border=true&bg_color=050806&title_color=00FF41&text_color=B9CDBD&icon_color=00FF41"
-      alt="Sankar GitHub Stats"
-    />
-  </a>
-
-  <a href="https://github.com/sankar-prog">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&hide_border=true&bg_color=050806&title_color=00FF41&text_color=B9CDBD"
-      alt="Sankar Top Languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&icon_color=00FF41&text_color=B8D9BE&ring_color=00FF41&include_all_commits=true&count_private=true"
+    height="175"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&text_color=B8D9BE&langs_count=8"
+    height="175"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-prog&theme=dark&background=050805&hide_border=true&border_radius=14&ring=00FF41&fire=D4AF37&currStreakLabel=00FF41&sideLabels=B8D9BE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=52705A"
+    height="190"
+  />
+</p>
 
 </div>
 
