@@ -66,11 +66,22 @@
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
+<p align="center">
+  <img src="./assets/section-build.svg" width="100%" alt="Activity">
+</p>
+
+<p align="center">
+  <img
+    src="./something-new-matrix.svg"
+    width="100%"
+    alt="Something New"
+  />
+</p>
 
 <p align="center">
   <img src="./assets/section-connect.svg" width="100%" alt="Connect">
 </p>
-
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 <div align="center">
 
 <table>
