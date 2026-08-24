@@ -59,10 +59,7 @@
     src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&icon_color=00FF41&text_color=B8D9BE&ring_color=00FF41&include_all_commits=true&count_private=true"
     height="175"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-prog&layout=compact&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&text_color=B8D9BE&langs_count=8"
-    height="175"
-  />
+  
 </p>
 
 <p align="center">
