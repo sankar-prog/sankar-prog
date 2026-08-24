@@ -22,8 +22,6 @@
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 
