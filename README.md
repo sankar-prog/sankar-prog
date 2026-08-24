@@ -34,8 +34,7 @@
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/skill-tree.svg" width="90%"/>
 
 
-<br/><br/>
-
+<br/>
 </div>
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
