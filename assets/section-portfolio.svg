@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="92" viewBox="0 0 900 92">
+  <rect width="900" height="92" rx="16" fill="#050805"/>
+  <rect x="1" y="1" width="898" height="90" rx="15"
+        fill="none" stroke="#00FF41" stroke-opacity=".24"/>
+
+  <!-- Matrix terminal dots -->
+  <circle cx="28" cy="46" r="5" fill="#00FF41"/>
+  <circle cx="45" cy="46" r="5" fill="#00FF41" fill-opacity=".55"/>
+  <circle cx="62" cy="46" r="5" fill="#00FF41" fill-opacity=".25"/>
+
+  <!-- terminal prompt -->
+  <path d="M105 32L118 46L105 60"
+        stroke="#00FF41"
+        stroke-width="3"
+        fill="none"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+  <path d="M132 60H158"
+        stroke="#00FF41"
+        stroke-width="3"
+        stroke-linecap="round"/>
+
+  <!-- title -->
+  <text x="180" y="54"
+        fill="#F2FFF4"
+        font-family="Fira Code, JetBrains Mono, Consolas, monospace"
+        font-size="25"
+        font-weight="700"
+        letter-spacing="2">
+    PORTFOLIO
+  </text>
+
+  <!-- subtitle -->
+  <text x="180" y="72"
+        fill="#00FF41"
+        fill-opacity=".58"
+        font-family="Fira Code, JetBrains Mono, Consolas, monospace"
+        font-size="9"
+        letter-spacing="1.5">
+    DIGITAL_WORKSPACE // SANKAR.DEV
+  </text>
+
+  <!-- section number -->
+  <text x="735" y="54"
+        fill="#00FF41"
+        font-family="Fira Code, JetBrains Mono, Consolas, monospace"
+        font-size="14"
+        letter-spacing="2">
+    05
+  </text>
+
+  <path d="M770 46H852"
+        stroke="#00FF41"
+        stroke-opacity=".28"/>
+
+  <!-- subtle cursor -->
+  <path d="M852 46L841 40M852 46L841 52"
+        stroke="#00FF41"
+        stroke-opacity=".75"
+        stroke-width="1.5"
+        fill="none"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>
