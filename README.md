@@ -72,12 +72,55 @@
 
 <div align="center">
 
-<a href="https://github.com/sankar-prog"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=github&logoColor=00FF41"/></a>
-<a href="https://www.linkedin.com/in/sankar-arumugam-489b76366"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=linkedin&logoColor=00FF41"/></a>
-<a href="https://x.com/ffsankar007"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=x&logoColor=00FF41"/></a>
-<a href="https://www.instagram.com/_.sanxxr"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=instagram&logoColor=00FF41"/></a>
-<a href="mailto:devo.sankar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=gmail&logoColor=00FF41"/></a>
+<table>
+<tr>
+<td>
 
+<a href="https://github.com/sankar-prog">
+<img src="https://img.shields.io/badge/%3E__GITHUB-050805?style=flat-square&labelColor=050805&color=00FF41&logo=github&logoColor=00FF41"/>
+</a>
+
+</td>
+<td>
+
+<a href="https://www.linkedin.com/in/sankar-arumugam-489b76366">
+<img src="https://img.shields.io/badge/%3E__LINKEDIN-050805?style=flat-square&labelColor=050805&color=00FF41&logo=linkedin&logoColor=00FF41"/>
+</a>
+
+</td>
+<td>
+
+<a href="https://x.com/ffsankar007">
+<img src="https://img.shields.io/badge/%3E__X-050805?style=flat-square&labelColor=050805&color=00FF41&logo=x&logoColor=00FF41"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<a href="https://www.instagram.com/_.sanxxr">
+<img src="https://img.shields.io/badge/%3E__INSTAGRAM-050805?style=flat-square&labelColor=050805&color=00FF41&logo=instagram&logoColor=00FF41"/>
+</a>
+
+</td>
+<td>
+
+<a href="mailto:devo.sankar@gmail.com">
+<img src="https://img.shields.io/badge/%3E__EMAIL-050805?style=flat-square&labelColor=050805&color=00FF41&logo=gmail&logoColor=00FF41"/>
+</a>
+
+</td>
+<td>
+
+<span>● ONLINE</span>
+
+</td>
+</tr>
+</table>
+
+</div>
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 
