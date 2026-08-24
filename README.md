@@ -53,6 +53,16 @@
 
 <br/><br/>
 
+<h2>▸ <code>analytics --stats</code></h2>
+
+<img
+  src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/commit-pulse.svg"
+  width="100%"
+  alt="Commit Pulse"
+/>
+
+<br>
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&icon_color=00FF41&text_color=B8D9BE&include_all_commits=true&count_private=false"
@@ -74,7 +84,6 @@
     alt="Sankar GitHub Streak"
   />
 </p>
-
 
 
 </div>
