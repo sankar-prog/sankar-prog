@@ -37,7 +37,9 @@
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
-## ▸ `cat projects/*.json`
+<p align="center">
+  <img src="./assets/section-projects.svg" width="100%" alt="Skills">
+</p>
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/projects-showcase.svg" width="100%"/>
 
 
