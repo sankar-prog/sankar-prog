@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#00ff41" stroke-opacity=".035"/>
+    </pattern>
+    <linearGradient id="beam">
+      <stop offset="0" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00ff41"/>
+      <stop offset="1" stop-color="#00ff41" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base -->
+  <rect width="1200" height="280" rx="20" fill="#020502"/>
+  <rect x="1" y="1" width="1198" height="278" rx="19" fill="url(#grid)" stroke="#00ff41" stroke-opacity=".75"/>
+
+  <!-- Ambient glow -->
+  <ellipse cx="600" cy="140" rx="280" ry="90" fill="#00ff41" opacity=".035" filter="url(#soft)">
+    <animate attributeName="opacity" values=".02;.07;.02" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Header -->
+  <text x="42" y="42" fill="#00ff41" font-family="'Fira Code',monospace" font-size="11">
+    WORKSPACE // PRIVATE
+  </text>
+  <text x="1055" y="42" fill="#65ff7d" font-family="'Fira Code',monospace" font-size="11">
+    NODE_01
+  </text>
+
+  <!-- Animated corner brackets -->
+  <path d="M28 70V58H40 M1160 58H1172V70 M28 210V222H40 M1160 222H1172V210"
+        fill="none" stroke="#00ff41" stroke-width="2"/>
+
+  <!-- Core orbit -->
+  <g transform="translate(170 142)">
+    <circle r="54" fill="#041006" stroke="#00ff41" stroke-opacity=".3"/>
+    <circle r="40" fill="none" stroke="#00ff41" stroke-opacity=".3" stroke-dasharray="4 8">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0" to="360" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="28" fill="none" stroke="#00ff41" stroke-width="2" stroke-dasharray="18 9">
+      <animateTransform attributeName="transform" type="rotate"
+        from="360" to="0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <polygon points="0,-20 18,-10 18,10 0,20 -18,10 -18,-10"
+             fill="#061406" stroke="#00ff41" stroke-width="2"
+             filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate"
+        values="0;60;120;180;240;300;360" dur="6s" repeatCount="indefinite"/>
+    </polygon>
+
+    <circle r="5" fill="#00ff41" filter="url(#glow)">
+      <animate attributeName="r" values="4;7;4" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- orbiting node -->
+    <circle cx="48" cy="0" r="4" fill="#00ff41">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0" to="360" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Main typography -->
+  <text x="270" y="112" fill="#00ff41"
+        font-family="'Fira Code',monospace" font-size="31" font-weight="700"
+        filter="url(#glow)">
+    SOMETHING_NEW
+    <animate attributeName="opacity" values="1;.72;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="272" y="140" fill="#a1ffad"
+        font-family="'Fira Code',monospace" font-size="12">
+    a new build is taking shape behind the scenes
+  </text>
+
+  <!-- Hidden build data -->
+  <g font-family="'Fira Code',monospace">
+    <text x="272" y="174" fill="#00ff41" font-size="10">BUILD_STATE</text>
+    <text x="390" y="174" fill="#d7ffdc" font-size="10">████████░░  PRIVATE</text>
+
+    <text x="272" y="196" fill="#00ff41" font-size="10">VISIBILITY</text>
+    <text x="390" y="196" fill="#d7ffdc" font-size="10">CLASSIFIED</text>
+
+    <text x="272" y="218" fill="#00ff41" font-size="10">REVEAL</text>
+    <text x="390" y="218" fill="#d7ffdc" font-size="10">WHEN_READY</text>
+  </g>
+
+  <!-- Animated circuit paths -->
+  <g fill="none" stroke="#00ff41" stroke-width="1.5" stroke-opacity=".45">
+    <path d="M780 96H850V126H930"/>
+    <path d="M820 196H875V166H965"/>
+    <path d="M1010 126H1080V96H1140"/>
+  </g>
+
+  <g fill="#00ff41" filter="url(#glow)">
+    <circle cx="780" cy="96" r="3"/>
+    <circle cx="930" cy="126" r="3"/>
+    <circle cx="820" cy="196" r="3"/>
+    <circle cx="965" cy="166" r="3"/>
+    <circle cx="1140" cy="96" r="3"/>
+  </g>
+
+  <!-- Moving data packets -->
+  <circle r="3" fill="#00ff41" filter="url(#glow)">
+    <animateMotion dur="2.8s" repeatCount="indefinite"
+      path="M780 96H850V126H930"/>
+  </circle>
+  <circle r="3" fill="#00ff41" filter="url(#glow)">
+    <animateMotion dur="3.2s" repeatCount="indefinite"
+      path="M820 196H875V166H965"/>
+  </circle>
+  <circle r="3" fill="#00ff41" filter="url(#glow)">
+    <animateMotion dur="3.6s" repeatCount="indefinite"
+      path="M1010 126H1080V96H1140"/>
+  </circle>
+
+  <!-- Bottom beam -->
+  <rect x="42" y="244" width="1116" height="1" fill="#00ff41" opacity=".2"/>
+  <rect x="42" y="243" width="180" height="3" fill="url(#beam)">
+    <animate attributeName="x" values="42;978;42" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="42" y="264" fill="#00ff41"
+        font-family="'Fira Code',monospace" font-size="10">
+    $ keep_building()
+  </text>
+  <text x="1028" y="264" fill="#65ff7d"
+        font-family="'Fira Code',monospace" font-size="10">
+    ● DEVELOPING
+    <animate attributeName="opacity" values="1;.35;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+</svg>
