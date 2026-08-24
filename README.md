@@ -4,6 +4,12 @@
 
 <br/>
 
+
+
+<br/><br/>
+<p align="center">
+  <img src="./assets/section-about.svg" width="100%" alt="About Me">
+</p>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=root%40sankar%3A~%24+whoami;%3E+fresher+python+%2F+django+developer;root%40sankar%3A~%24+status;%3E+available+for+hire+%E2%9C%93;root%40sankar%3A~%24+cat+philosophy.txt;%3E+coffee+%2B+code+%2B+curiosity" />
 
 <br/><br/>
@@ -11,12 +17,6 @@
 <img src="https://img.shields.io/badge/%E2%97%8F_ONLINE-000000?style=flat-square&color=00FF41&labelColor=000000"/>
 <img src="https://komarev.com/ghpvc/?username=sankar-prog&label=VISITORS&color=00FF41&style=flat-square&labelColor=000000"/>
 <img src="https://img.shields.io/badge/LOCATION-CHENNAI_%2F_DHARMAPURI-000000?style=flat-square&color=D4AF37&labelColor=000000"/>
-
-<br/><br/>
-<p align="center">
-  <img src="./assets/section-about.svg" width="100%" alt="About Me">
-</p>
-
 <br/>
 <table>
 <tr>
