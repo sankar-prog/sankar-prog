@@ -53,15 +53,6 @@
 
 <br/><br/>
 
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&icon_color=00FF41&text_color=B8D9BE&ring_color=00FF41&include_all_commits=true&count_private=true"
-    height="175"
-  />
-  
-</p>
-
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-prog&theme=dark&background=050805&hide_border=true&border_radius=14&ring=00FF41&fire=D4AF37&currStreakLabel=00FF41&sideLabels=B8D9BE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=52705A"
