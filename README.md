@@ -42,8 +42,11 @@
 </p>
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/projects-showcase.svg" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
-## ▸ `analytics --stats`
+<p align="center">
+  <img src="./assets/section-activity.svg" width="100%" alt="Activity">
+</p>
 
 <div align="center">
 
