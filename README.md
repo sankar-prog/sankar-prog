@@ -56,7 +56,6 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-prog&theme=dark&background=00000000&hide_border=true&ring=00FF41&fire=D4AF37&currStreakLabel=00FF41"/>
 
 </div>
 
