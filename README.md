@@ -72,7 +72,7 @@
 
 <p align="center">
   <img
-    src="./something-new-matrix.svg"
+    src="./assets/something-new-matrix.svg"
     width="100%"
     alt="Something New"
   />
