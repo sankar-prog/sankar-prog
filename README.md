@@ -23,8 +23,6 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
-
-
 <p align="center">
   <img src="./assets/section-stack.svg" width="100%" alt="Skills">
 </p>
