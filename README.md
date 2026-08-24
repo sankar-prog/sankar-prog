@@ -78,15 +78,7 @@
 <a href="https://www.instagram.com/_.sanxxr"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=instagram&logoColor=00FF41"/></a>
 <a href="mailto:devo.sankar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&labelColor=000000&color=00FF41&logo=gmail&logoColor=00FF41"/></a>
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
-```
-> connection established. thank you for visiting.
-> type "follow" to continue the conversation.
-```
-
-</div>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/footer-rain.svg" width="100%"/>
