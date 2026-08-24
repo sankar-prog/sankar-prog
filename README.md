@@ -64,20 +64,6 @@
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
-<details>
-<summary>▸ <code>sudo unlock --secret</code></summary>
-<br/>
-
-```
-[ACCESS GRANTED]
-
-fun_fact_01 : once debugged for 4 hours — the bug was a missing semicolon
-fun_fact_02 : can beat most friends at chess, loses to phone alarm every morning
-fun_fact_03 : believes clean code is a love language
-easter_egg  : if you're reading this, you scrolled further than 90% of visitors 👀
-```
-
-</details>
 
 <br/>
 
