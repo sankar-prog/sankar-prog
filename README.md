@@ -36,6 +36,22 @@
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/skill-tree.svg" width="90%"/>
 
 <br/><br/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
+
+## ▸ `cat projects/*.json`
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/projects-showcase.svg" width="100%"/>
+
+
+## ▸ `analytics --stats`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/commit-pulse.svg" width="95%"/>
+
+<br/><br/>
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sankar-prog&show_icons=true&theme=dark&bg_color=050805&hide_border=true&border_radius=14&title_color=D4AF37&icon_color=00FF41&text_color=B8D9BE&ring_color=00FF41&include_all_commits=true&count_private=true"
@@ -53,23 +69,6 @@
     height="190"
   />
 </p>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
-
-## ▸ `cat projects/*.json`
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/projects-showcase.svg" width="100%"/>
-
-
-## ▸ `analytics --stats`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/commit-pulse.svg" width="95%"/>
-
-<br/><br/>
-
 
 
 
