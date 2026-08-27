@@ -50,15 +50,6 @@
 
 <br/><br/>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-prog&theme=dark&background=050805&hide_border=true&border_radius=14&ring=00FF41&fire=D4AF37&currStreakLabel=00FF41&sideLabels=B8D9BE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=52705A"
-    height="190"
-  />
-</p>
-
-</div>
-
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
 <p align="center">
