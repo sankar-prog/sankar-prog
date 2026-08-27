@@ -48,7 +48,7 @@
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/commit-pulse.svg" width="95%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/sankar-prog/sankar-prog/main/assets/circuit-divider.svg" width="100%"/>
 
